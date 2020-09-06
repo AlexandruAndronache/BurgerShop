@@ -1,5 +1,5 @@
-white
-black
-something
-alex
-paula
+white, 12
+black, 11
+something, 111
+alex, 12
+paula, 13
